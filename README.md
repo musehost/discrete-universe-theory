@@ -36,4 +36,8 @@ At non-critical density, the effect remains, but proportionally less. The framew
 
 Therefore, time is only slightly reduced compared to empty space, and the speed of light is only slightly delayed. This is the regime of ordinary gravity — planets, stars, and galaxies.
 
-Only at critical density does the delay tend to infinity and time tend to zero, which is the black hole condition. Formally: $t \to 0$ as $\rho_{cell} \to \rho_{critical}$.
+Only at critical density does the delay 
+tend to infinity and time tend to zero, 
+which is the black hole condition. 
+
+Formally: t → 0 as ρ_cell → ρ_critical
