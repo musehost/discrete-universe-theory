@@ -1,41 +1,28 @@
-# Discrete Universe Theory (DUT)
-### The Gravitational Density Pattern Theory
+# Discrete Universe Theory (DUT) — The Gravitational Density Pattern Theory
 
-**Author:** Benjamin Langston Cortes
-**Location:** Tijuana, Mexico
-**Version:** v1.0.0 - Initial Formal Release
-**Licence:** CC BY-NC 4.0
+**Author:** Benjamin Langston Cortes  
+**Location:** Tijuana, Mexico  
+**Licence:** CC BY-NC 4.0  
+**DOI:** 10.5281/zenodo.22151323  
+**Version:** v1.0.1
 
-### What is this theory about?
+### Abstract
+The universe is a discrete cellular structure, updated by a universal Temporal Iteration Cycle (TIC). What we perceive as space, time, and gravity are emergent properties of the local pattern density of this structure.
 
-Spacetime is not continuous. It is discrete, quantised, and structured. The universe is composed of fundamental cells that update at a universal rate we call the TIC.
+### 1. The Failure of Relativity
+General Relativity describes gravity with a tautology: it uses mass to curve space, then uses curved space to explain the movement of mass. It describes *what* happens, but not *why* the speed of light, c, is the limit, nor why light slows near mass.
 
-By applying this theory alone, we resolve what General Relativity, Special Relativity, Quantum Mechanics and Statistical Mechanics have been unable to explain causally.
+### 2. The Answer — The TIC
+DUT proposes a fundamental axiom: the universe has a discrete tick rate, the TIC. The speed of light is simply one cell per TIC: c = 1 cell / 1 TIC. It is the maximum rate of information transfer in the structure.
 
-### The central failure of Relativity
+Mass is a region of dense pattern.
 
-Fundamental question: Why is the speed of light constant?
+### 3. Predictions
+1.  Light speed is not constant; it is dependent on local cell density.
+2.  Gravity is not a force, but a gradient of TIC delay.
+3.  Black holes are regions of critical density where update ceases.
 
-Relativistic answer: It is constant because it is constant. Because it is a postulate. That is a tautology. It describes an effect and calls it a cause. There is no mechanism.
-
-### The answer from this theory
-
-The speed of light is constant because the universe has a perfect mechanism.
-
-The discrete universe updates via the TIC. In each TIC, all cells are updated. That is where light is displaced and where matter structures itself.
-
-1. Light can never be faster than the TIC. If it were, it would be trapped in a single cell. That is why c is the absolute limit. Not by magic, by mechanism.
-2. Light DOES slow down when it moves near or towards a dense matter system. This is measurable.
-3. Therefore, gravity is not a force. It does not pull. It is only a discrete density pattern.
-
-### Predictions
-
-- Light delay dependent on local density pattern
-- Gravity as statistical effect of density
-- Unbreakable cellular limit for any displacement
-
-Cite as: Cortes, Benjamin Langston (2026). Discrete Universe Theory v1.0.0
-### Why Time Slows Near Mass: The TIC Delay
+### 4. Why Time Slows Near Mass: The TIC Delay
 
 Due to the pattern of density, the structural framework itself becomes tense. The regions proximate to mass are structurally tense.
 
